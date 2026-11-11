@@ -1,0 +1,8 @@
+{
+  "name": "aventuras-cada-dia",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Aplicación infantil de hábitos y recompensas, basada en COM100CIA",
+  "scripts": {"dev":"node server.mjs", "test":"node --test tests/*.test.mjs", "check":"node --check src/app.js && node --check src/data.js && node --check src/store.js"}
+}

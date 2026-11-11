@@ -1,0 +1,13 @@
+AVENTURAS CADA DÍA — ENTREGA
+
+1. Descomprime el ZIP.
+2. Para abrirlo localmente instala Node.js y ejecuta "npm run dev" dentro de la carpeta.
+3. Abre http://localhost:4173.
+4. Para subir a GitHub: crea un repositorio vacío en la cuenta de tu amiga y arrastra TODOS los archivos y carpetas del proyecto.
+5. En Vercel importa ese repositorio; framework Other, sin comando de build, carpeta de salida ".".
+
+Pruebas: npm run check; npm test.
+
+El sistema funciona sin base de datos. Guarda avances en el navegador; los respaldos se descargan en Zona de papás > Mis datos.
+
+Para mostrarlo en distintos dispositivos con los mismos datos, exporta e importa el respaldo. No hay sincronización en la nube.
